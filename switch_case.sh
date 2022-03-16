@@ -12,7 +12,8 @@ case $days in
 ;;
 'Fri') rm -r folder_m_1
 ;;
-'Sat'|'Sun') echo "holiday"
+'Sat') echo "half day holiday"
+'Sun') echo " weeek end"
 esac
 
 
