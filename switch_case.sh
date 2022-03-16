@@ -15,7 +15,7 @@ case $days in
 'Sat') echo "half day holiday"
 'Sun') echo " weeek end"
 esac
-
+echo "script completed"
 
 
 
